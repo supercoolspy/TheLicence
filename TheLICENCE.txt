@@ -20,7 +20,7 @@ from the following electronic Fingerprint.
 		from their last request, or the author willingly agrees to give the termination notice to the party
 		2) If 7 out of 12 months of the year the terminated party asks for their notice the author does not have to provide the notice for a year since the last notice was sent but may provide it if willingly doing it
 			A) The Terminated party should however be notified somehow if possible of this decision
-	D) Any copies of the source code or binaries of this project must include section 1 and a link to the rest of the licence at the top of the file and A line below that saying "This text must be included in all source code and binaries containing this file or its derivatives.
+	D) Any copies of the source code or binaries of this project must include section 1 and a link to the rest of the licence at the top of the file and A line below that saying "This text must be included in all source code and binaries containing this file or its derivatives".
 
 3. If no signature is included, the following terms apply:
 No part of this code may be reproduced, distributed, or transmitted in any form or by any means,
